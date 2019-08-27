@@ -1,0 +1,6 @@
+**
+!containers/**
+!ansible/**
+!helms/**
+!profiles/*_template.yaml
+!version.info
