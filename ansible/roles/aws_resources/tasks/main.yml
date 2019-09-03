@@ -1,0 +1,4 @@
+---
+
+- include: vpc-facts.yml
+
